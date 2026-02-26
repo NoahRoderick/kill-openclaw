@@ -30,13 +30,11 @@ Use this if you fear that OpenClaw has gone rogue.
 
 
 
-###### Open Command Prompt in Administrator mode and do the following:
+###### Open Command Prompt in Administrator mode type:
 
 
+1. openclaw gateway
 
-1. cd C:\\PATH-TO-OPENCLAW\\
-2. openclaw
-3. openclaw gateway
 
 
 
