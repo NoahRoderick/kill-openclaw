@@ -8,7 +8,7 @@
 
 
 
-Simply click the script and it automatically activates.
+Open the safeguards folder and simply click the script and it automatically activates.
 
 Use this if you fear that OpenClaw has gone rogue.
 
