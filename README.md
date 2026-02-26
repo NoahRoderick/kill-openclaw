@@ -1,1 +1,60 @@
-[README.md](https://github.com/user-attachments/files/25583493/README.md)
+# **WARNING - PERMANENT DAMAGE INTIMATE - PLEASE READ**
+
+
+
+## 
+
+## **How To Use:**
+
+
+
+Simply click the script and it automatically activates.
+
+Use this if you fear that OpenClaw has gone rogue.
+
+## 
+
+## **KILL\_OPENCLAW:**
+
+
+
+#### **Effects:**
+
+###### 
+
+###### Temporarily borks or disables OpenClaw. Destroys it's Node.js and cripples it and it can easily be reverted.
+
+
+
+#### **How to revert:**
+
+
+
+###### Open Command Prompt in Administrator mode and do the following:
+
+
+
+1. cd C:\\PATH-TO-OPENCLAW\\
+2. openclaw
+3. openclaw gateway
+
+
+
+## **KILL\_OPENCLAW\_NUCLEAR:⚛️**
+
+#### 
+
+#### **Effects:**
+
+
+
+###### **COMPLETELY** terminates OpenClaw. Irreversible. 
+
+
+
+#### **How to revert:**
+
+###### &nbsp;
+
+###### Impossible.
+
