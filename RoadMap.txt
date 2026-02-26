@@ -1,0 +1,2 @@
+Here is my goal for the future,
+To create an autonomous safeguard that automatically activates when it detects suspicious or malicious activity.
