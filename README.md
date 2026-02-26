@@ -54,7 +54,5 @@ Use this if you fear that OpenClaw has gone rogue.
 
 #### **How to revert:**
 
-###### &nbsp;
-
 ###### Impossible.
 
